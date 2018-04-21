@@ -1,0 +1,18 @@
+body {
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+canvas {
+  margin: auto;
+  background: #ececec;
+  width: 100%;
+}
+
+.btn-disabled {
+  color: #fff !important;
+}
+
+.space {
+    margin-bottom: 5px;
+}
